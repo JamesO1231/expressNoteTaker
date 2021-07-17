@@ -8,7 +8,6 @@
 * uuid
 * fs
 * Path
-* Inquire
 
 ## Usage Information
 * This application allowes a user to create and save notes on a JSON file running off a Express.js back end. If that user is done with there notes they are able to delete those notes and create new ones whenever they need.
