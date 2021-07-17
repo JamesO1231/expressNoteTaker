@@ -27,7 +27,7 @@
 * Follow me on Github at [JamesO1231](http://github.com/JamesO1231)
 
 ## Deployed URL Link
-* [URL Link](https://jameso1231.github.io/expressNoteTaker/public/index.html)
+* [URL Link](https://gentle-brushlands-60472.herokuapp.com/)
 
 ## Deployment Image
 ![Alt text](./images/firstPage.PNG)
